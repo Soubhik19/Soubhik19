@@ -113,4 +113,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soubhik19/Soubhik19/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Soubhik19/Soubhik19/output/github-snake-dark.svg" />
 </picture>
- 
