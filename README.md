@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soubhik Samanta</h1>
-<h3 align="center">Data Science Enthusiast | Final Year B.Tech CSE Student | Let's learn & grow together! 📚💻</h3>
+<h3 align="center">Software Developer | MERN · Node.js · Docker · Linux · LLMs | Full-Stack × DevOps × GenAI | Open to Work</h3>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Soubhik19&label=Profile%20views&color=0e75b6&style=flat" alt="Soubhik19" />
